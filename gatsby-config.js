@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Flowup`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Simon Koelewijn`,
+      summary: `UX tips om je flows te upgraden.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `UX tips om je flows te upgraden.`,
+    siteUrl: `https://flowup.nl`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `simonk`,
     },
   },
   plugins: [
@@ -112,8 +112,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Flowup`,
+        short_name: `Flowup`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
